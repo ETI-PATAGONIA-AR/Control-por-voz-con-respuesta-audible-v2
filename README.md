@@ -329,6 +329,6 @@ void decirHora() {
 
 Bien, les comparto a modo adelanto un VIDEO ( https://youtu.be/N6YvQgb3dJE?si=L2i9OlHFikIc32-q )
 
-[![CtrlVOZ_VR3_v2](https://img.youtube.com/vi/L2i9OlHFikIc32/0.jpg)](https://www.youtube.com/watch?v=L2i9OlHFikIc32)
+[![CtrlVOZ_VR3_v2](https://img.youtube.com/vi/N6YvQgb3dJE/0.jpg)](https://youtu.be/N6YvQgb3dJE)
 
 El codigo de fuente completo no lo comparto abiertamente. Puede solicitarlo via correo electronico personalmente
