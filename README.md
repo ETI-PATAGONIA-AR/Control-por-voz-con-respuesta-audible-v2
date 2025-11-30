@@ -42,7 +42,7 @@ myVR.load(uint8_t (0));   //Hey Roberta esta guardado en la posicion 0
  myVR.load(uint8_t (19)); //19 luces
 ```
 
-Con estos comandos, inicio el programa (Como no me gustas Alexa, la llame Roberta) y a medida que el VR3 va reconociendo comandos, puedo ejecutar funciones donde puedo volver a cargar otros 7 espacios de mensajes y así sucesivamente para lograr no tener la limitante de tener un programa de tan solo 7 comandos de voz.... Les muestro un extracto de mi Proyecto: "ROBERTA":love:, que básicamente es un asistente offline para automatizar / domotizar algunas funciones de nuestros hogares...
+Con estos comandos, inicio el programa (Como no me gustas Alexa, la llame Roberta) y a medida que el VR3 va reconociendo comandos, puedo ejecutar funciones donde puedo volver a cargar otros 7 espacios de mensajes y así sucesivamente para lograr no tener la limitante de tener un programa de tan solo 7 comandos de voz.... Les muestro un extracto de mi Proyecto: "ROBERTA", que básicamente es un asistente offline para automatizar / domotizar algunas funciones de nuestros hogares...
 
 ```
 ///////////////////////////////////////////////////////////////////////////////////
