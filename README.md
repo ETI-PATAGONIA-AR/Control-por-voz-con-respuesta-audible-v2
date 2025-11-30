@@ -156,7 +156,7 @@ void Regar()
     }
 ```
 
-Bien, entiendo que simplifique bastante el programa :silbando: , pero me gustaria que salga de ustedes un poco de creatividad tambien :no: .... Si pongo todo el programa, como ya vi en anteriores ocasiones, copian y pegan en otro lugar sin mencionar quien fue el salamin con patas que los desarrollo :facepalm: ...
+Bien, entiendo que simplifique bastante el programa, pero me gustaria que salga de ustedes un poco de creatividad tambien .... Si pongo todo el programa, como ya vi en anteriores ocasiones, copian y pegan en otro lugar sin mencionar quien fue el salamin con patas que los desarrollo...
 Bien, la primera parte estrella de esta nueva actualizacion ya la comente; Ahora vamos a la segunda parte estrella, que basicamente fue mejorar la manera en que contestaba con audios las ordenes impartidas... Migre todo a un pequeño modulo reproductor de mp3, el "dfPLAYER mini" y como veia que contestarme cosas basicas como "Luces encendidas / Luces apagadas" ya me parecía pre-arcaico, decidí darle mas funciones para sacarle jugo a la nueva adquisición: "Le di a Roberta la opción de poder decirme la temperatura con voz!!! "
 Les muestro como y ustedes podran modificarlo a futuro para sus proyectos... Recordemos las siguientes lineas en el loop el programa anterior:
 
