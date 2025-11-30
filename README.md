@@ -209,7 +209,7 @@ void decirTemperatura()
 
 El problema del DFPlayer Mini, es que numera los archivos en el orden en que están grabados, no por nombre alfabético.
 Cuando tengamos la miniSD, es MUY importante copiarlos uno por uno en el orden correcto.
-En mi caso use nombres de archivo tipo 0001.mp3, 0002.mp3, etc; y evite carpetas (los deje a todos en la raíz de la tarjeta). Yo se que es tedioso, mas cuando me tome el trabajo de usar un TTS para generar todos los audios por que tengo una voz de Roberta media ronca :ROFLMAO:
+En mi caso use nombres de archivo tipo 0001.mp3, 0002.mp3, etc; y evite carpetas (los deje a todos en la raíz de la tarjeta). Yo se que es tedioso, mas cuando me tome el trabajo de usar un TTS para generar todos los audios por que tengo una voz de Roberta media ronca...
 En fin; El orden de mensajes que estableci para esta parte es:
 
 _0001.mp3 → “Hacen” (Palabra inicial)_
